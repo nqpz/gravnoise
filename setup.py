@@ -14,7 +14,7 @@ setup(
     url=g.__home_page__,
     license=g.__license_short__,
     description=g.__program_description__,
-    long_description=open('README.txt').read(),
+    long_description=open('README.rst').read(),
     classifiers=['Development Status :: 4 - Beta',
                  'Intended Audience :: Developers',
                  'Intended Audience :: End Users/Desktop',
